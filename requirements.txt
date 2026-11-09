@@ -1,0 +1,3 @@
+# O notebook usa apenas a biblioteca padrão do Python 3.10+ (json, os, urllib).
+# Só é preciso um ambiente Jupyter para abri-lo e executá-lo.
+jupyterlab>=4.0
